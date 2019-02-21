@@ -4,5 +4,6 @@ class Dog
   def initialize(dog)
     @dog=dog
     @@all << dog
+  end
     
 end
