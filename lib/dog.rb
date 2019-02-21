@@ -15,7 +15,8 @@ class Dog
   def name
     name = @dog
   end
-  def selfclear_all
+  def self.clear_all
+    @@all=[]
   
 end
 
