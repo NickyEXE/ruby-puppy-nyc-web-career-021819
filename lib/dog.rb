@@ -12,5 +12,6 @@ class Dog
       puts obj.dog
     end
   end
+  def name
 end
 
