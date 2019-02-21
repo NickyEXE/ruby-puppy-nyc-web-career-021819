@@ -8,6 +8,7 @@ class Dog
     @@all.push(self)
   end
   def self.all
-    self
+    self.each do |name|
+      
   end
 end
