@@ -8,6 +8,7 @@ class Dog
     @@all.push(self)
   end
   def self.all
+    binding.pry
     @@all.each do |dog|
       dog.dog
     end
