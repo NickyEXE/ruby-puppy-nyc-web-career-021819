@@ -12,8 +12,8 @@ class Dog
     @@all.each do |dog|
       dog.dog
     end
+    binding.pry
   end
-  binding.pry
 end
 
 Dog.new("fido")
