@@ -13,7 +13,7 @@ class Dog
     end
   end
   def name
-    
+    name = @dog
   end
 end
 
