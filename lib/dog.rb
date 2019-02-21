@@ -5,5 +5,5 @@ class Dog
     @dog=dog
     @@all.push(self)
   end
-  def .all
+  def all
 end
