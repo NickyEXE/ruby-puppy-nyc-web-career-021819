@@ -14,3 +14,7 @@ class Dog
     end
   end
 end
+
+Dog.new("fido")
+Dog.new("chuck")
+Dog.new("larry")
