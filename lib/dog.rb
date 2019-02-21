@@ -18,3 +18,4 @@ end
 Dog.new("fido")
 Dog.new("chuck")
 Dog.new("larry")
+binding.pry
