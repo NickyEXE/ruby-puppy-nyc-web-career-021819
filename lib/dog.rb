@@ -7,7 +7,7 @@ class Dog
     @dog=dog
     @@all.push(self)
   end
-  def all
+  def self.all
     binding.pry
   end
 end
