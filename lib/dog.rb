@@ -8,6 +8,6 @@ class Dog
     @@all.push(self)
   end
   def self.all
-    
+    self.
   end
 end
