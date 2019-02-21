@@ -13,9 +13,10 @@ class Dog
       dog.dog
     end
   end
+  binding.pry
 end
 
 Dog.new("fido")
 Dog.new("chuck")
 Dog.new("larry")
-binding.pry
+
