@@ -20,3 +20,5 @@ Dog.new("fido")
 Dog.new("chuck")
 Dog.new("larry")
 
+Dog.all
+
